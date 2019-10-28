@@ -13,5 +13,5 @@
   - Add feature for an one-time installation and regular automatic script execution
   
 ### requirements 
-  - Python==3.6.7 or above | Pillow==5.3.0
+  - Python==3.6.7 or above | Pillow>=6.2.0
   - __Windows 10__
