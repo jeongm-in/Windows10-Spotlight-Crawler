@@ -1,3 +1,6 @@
+## Does not support Python 3.8
+PIL, the image library used in this project, does not yet support Python 3.8. 
+
 ### Overview
   - Windows 10 by default ships with beautiful image slide shows (spotlight). 
   - This script saves spotlight so that images can be used for desktop background image.
@@ -15,3 +18,4 @@
 ### requirements 
   - Python==3.6.7 or above | Pillow>=6.2.0
   - __Windows 10__
+  
