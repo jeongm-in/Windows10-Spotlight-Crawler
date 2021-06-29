@@ -1,3 +1,7 @@
+## Archiving
+
+(June 29, 2021) This project is no longer maintained. Check out the C++ version of the same program ![here](https://github.com/jeongm-in/limsave):  
+
 ## Does not support Python 3.8
 PIL, the image library used in this project, does not yet support Python 3.8. 
 
